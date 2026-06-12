@@ -11,11 +11,12 @@
     },
     {
       "name": "NumRulings",
-      "ioValue": 10
+      "ioValue": 50
     },
     {
       "name": "RulingAxis(U,V,auto)",
-      "ioValue": 10
+      "ioValue": "auto",
+      "currentEquation": "auto"
     }
   ],
   "topLevel": true,
@@ -44,11 +45,11 @@
         },
         {
           "name": "numRulings",
-          "ioValue": 10
+          "ioValue": 50
         },
         {
           "name": "rulingAxis",
-          "ioValue": 10,
+          "ioValue": "auto",
           "currentEquation": "auto"
         },
         {
@@ -79,14 +80,14 @@
     {
       "atomType": "Input",
       "x": 0.025384615384615384,
-      "y": 0.3354166666666667,
+      "y": 0.24615384615384617,
       "uniqueID": "id-66",
       "name": "NumRulings"
     },
     {
       "atomType": "Input",
       "x": 0.025384615384615384,
-      "y": 0.46875,
+      "y": 0.3384615384615385,
       "uniqueID": "id-69",
       "name": "RulingAxis(U,V,auto)",
       "type": "string"
