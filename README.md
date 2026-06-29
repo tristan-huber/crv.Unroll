@@ -8,7 +8,7 @@
 
 - **Face** (geometry)
 - **NumRulings** (number)
-- **RulingAxis(U,V,auto)** (string)
+- **StartFromEdge** (number)
 
 
 
